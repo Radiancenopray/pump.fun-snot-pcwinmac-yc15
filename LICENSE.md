@@ -1,4 +1,4 @@
-# 
+# 独家 pump.fun sniper bot 预设 Mac OS版 | 自定义 pump.fun sniper bot 预设 PC Windows版。集成 私有RPC端点 和 卖出税检测，跨平台性能最大化。
 
 
 
